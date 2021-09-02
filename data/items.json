@@ -1,0 +1,8 @@
+{
+  "game": {
+    "stone": {
+      "name": "Stone",
+      "id": "game:stone"
+    }
+  }
+}

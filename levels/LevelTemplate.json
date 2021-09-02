@@ -1,0 +1,17 @@
+{
+  "Rooms": [
+    {
+      "events": [
+        {
+          "type": "text",
+          "text": "This is a test template.",
+          "delay": 4
+        },
+        {
+          "type": "give",
+          "item": "game:stone"
+        }
+      ]
+    }
+  ]
+}
