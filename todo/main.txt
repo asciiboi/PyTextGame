@@ -1,0 +1,5 @@
+Implement a way to make levels.
+Implement items.
+Implement a inventory system.
+Create levels.
+Create Items.
